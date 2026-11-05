@@ -31,6 +31,8 @@ The queries progress from basic data projection to advanced conditional filterin
 4. **Compound Boolean Logic & Precedence:** Combining multiple criteria using `AND` and `OR` operators alongside parentheses to control evaluation order (e.g., filtering laptops sold in Nigeria, or multi-item purchases of tablets and smartwatches).
 
 ```sql
+![](
+
 -- Example: Compound filtering with logical operator precedence
 SELECT * 
 FROM Orders_table
